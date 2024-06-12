@@ -1,2 +1,76 @@
 [2024-06-07 18:26:54,103: main: Welcome to out custom logging]
 [2024-06-07 18:27:00,850: main: Welcome to our custom logging]
+[2024-06-12 12:35:59,133: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-12 12:35:59,141: common: yaml file: params.yaml loaded successfully]
+[2024-06-12 12:37:48,786: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-12 12:37:48,787: common: yaml file: params.yaml loaded successfully]
+[2024-06-12 12:38:09,099: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-12 12:38:09,101: common: yaml file: params.yaml loaded successfully]
+[2024-06-12 15:25:58,482: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-12 15:26:56,698: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-12 15:26:56,700: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-12 15:28:52,476: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-12 15:28:52,477: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-12 15:39:05,036: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-12 15:39:05,039: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-12 15:41:22,637: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-12 15:41:22,639: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-12 15:42:10,481: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-12 15:42:10,484: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-12 15:43:19,768: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-12 15:43:19,770: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-12 15:45:11,055: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-12 15:45:11,060: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-12 15:53:17,244: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-12 15:53:17,246: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-12 15:53:31,992: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-12 15:53:31,994: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-12 15:56:45,734: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-12 15:56:45,737: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-12 15:56:59,763: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-12 15:56:59,769: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-12 15:57:34,739: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-12 15:57:34,741: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-12 15:58:17,311: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-12 15:58:17,313: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-12 15:59:10,347: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-12 15:59:10,349: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-12 15:59:13,544: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-12 15:59:13,546: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-12 16:02:53,645: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-12 16:02:53,655: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-12 16:08:13,083: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-12 16:08:13,085: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-12 16:08:28,804: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-12 16:08:28,805: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-12 16:24:09,289: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-12 16:24:09,291: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-12 16:24:09,293: common: Created directory at: artifacts]
+[2024-06-12 16:24:09,294: common: Created directory at: artifacts\data_ingestion]
+[2024-06-12 16:24:18,761: 2789624674: artifacts\data_ingestion\data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B634:373C58:1C85462:1E029D7:66697E53
+Accept-Ranges: bytes
+Date: Wed, 12 Jun 2024 10:54:13 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ams2100127-AMS
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1718189653.112607,VS0,VE659
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: fe85ebf9af8a13ec81288783afe7664f57c100fd
+Expires: Wed, 12 Jun 2024 10:59:13 GMT
+Source-Age: 0
+
+]
