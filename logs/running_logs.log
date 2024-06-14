@@ -74,3 +74,74 @@ Expires: Wed, 12 Jun 2024 10:59:13 GMT
 Source-Age: 0
 
 ]
+[2024-06-12 16:25:56,594: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-12 16:25:56,596: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-12 16:25:56,598: common: Created directory at: artifacts]
+[2024-06-12 16:25:56,599: common: Created directory at: artifacts\data_ingestion]
+[2024-06-12 16:25:56,599: 2789624674: File already exists of size: ~ 7718 KB]
+[2024-06-12 16:26:02,309: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-12 16:26:02,310: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-12 16:26:02,312: common: Created directory at: artifacts]
+[2024-06-12 16:26:02,313: common: Created directory at: artifacts\data_ingestion]
+[2024-06-12 16:26:07,579: 2789624674: artifacts\data_ingestion\data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B634:373C58:1C85462:1E029D7:66697E53
+Accept-Ranges: bytes
+Date: Wed, 12 Jun 2024 10:56:04 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ams2100098-AMS
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1718189765.529058,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: a3e9c1cc5b8b201078dafc1f7a3b782f7b7922ce
+Expires: Wed, 12 Jun 2024 11:01:04 GMT
+Source-Age: 111
+
+]
+[2024-06-14 13:11:41,393: main: >>> stage Data Ingestion Stage started <<<]
+[2024-06-14 13:11:41,398: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 13:11:41,402: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 13:11:41,402: common: Created directory at: artifacts]
+[2024-06-14 13:11:41,403: common: Created directory at: artifacts\data_ingestion]
+[2024-06-14 13:11:47,409: data_ingestion: artifacts\data_ingestion\data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: D03D:129CC7:13571:168E0:666BF434
+Accept-Ranges: bytes
+Date: Fri, 14 Jun 2024 07:41:44 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21745-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1718350904.122678,VS0,VE753
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: b7152b2e3a5a735b24ccb468c3fbad1a08d4e7f7
+Expires: Fri, 14 Jun 2024 07:46:44 GMT
+Source-Age: 0
+
+]
+[2024-06-14 13:11:47,527: main: >>> stage Data Ingestion Stage completed <<<
+
+x===============x]
