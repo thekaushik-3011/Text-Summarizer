@@ -145,3 +145,141 @@ Source-Age: 0
 [2024-06-14 13:11:47,527: main: >>> stage Data Ingestion Stage completed <<<
 
 x===============x]
+[2024-06-14 13:42:36,925: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 13:42:36,927: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 13:42:36,928: common: Created directory at: artifacts]
+[2024-06-14 13:44:01,318: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 13:44:01,320: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 13:44:01,321: common: Created directory at: artifacts]
+[2024-06-14 13:44:48,071: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 13:44:48,073: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 13:44:48,074: common: Created directory at: artifacts]
+[2024-06-14 13:45:41,856: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 13:45:41,858: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 13:45:41,859: common: Created directory at: artifacts]
+[2024-06-14 13:45:49,205: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 13:45:49,208: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 13:45:49,210: common: Created directory at: artifacts]
+[2024-06-14 13:46:36,242: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 13:46:36,244: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 13:46:36,245: common: Created directory at: artifacts]
+[2024-06-14 13:46:36,245: common: Created directory at: artifacts\data_validation]
+[2024-06-14 13:46:52,961: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 13:46:52,963: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 13:46:52,964: common: Created directory at: artifacts]
+[2024-06-14 13:46:52,964: common: Created directory at: artifacts\data_validation]
+[2024-06-14 13:47:19,197: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 13:47:19,198: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 13:47:19,200: common: Created directory at: artifacts]
+[2024-06-14 13:47:19,201: common: Created directory at: artifacts\data_validation]
+[2024-06-14 13:47:44,803: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 13:47:44,805: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 13:47:44,806: common: Created directory at: artifacts]
+[2024-06-14 13:47:44,807: common: Created directory at: artifacts\data_validation]
+[2024-06-14 13:48:08,148: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 13:48:08,150: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 13:48:08,151: common: Created directory at: artifacts]
+[2024-06-14 13:48:08,151: common: Created directory at: artifacts\data_validation]
+[2024-06-14 13:49:19,393: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 13:49:19,396: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 13:49:19,397: common: Created directory at: artifacts]
+[2024-06-14 13:49:19,398: common: Created directory at: artifacts\data_validation]
+[2024-06-14 13:53:56,049: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 13:53:56,052: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 13:53:56,053: common: Created directory at: artifacts]
+[2024-06-14 13:53:56,054: common: Created directory at: artifacts\data_validation]
+[2024-06-14 13:54:01,342: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 13:54:01,343: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 13:54:01,344: common: Created directory at: artifacts]
+[2024-06-14 13:54:01,345: common: Created directory at: artifacts\data_validation]
+[2024-06-14 14:02:35,329: main: >>> stage Data Ingestion Stage started <<<]
+[2024-06-14 14:02:35,330: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 14:02:35,331: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 14:02:35,331: common: Created directory at: artifacts]
+[2024-06-14 14:02:35,332: common: Created directory at: artifacts\data_ingestion]
+[2024-06-14 14:02:38,431: data_ingestion: artifacts\data_ingestion\data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: D03D:129CC7:13571:168E0:666BF434
+Accept-Ranges: bytes
+Date: Fri, 14 Jun 2024 08:32:36 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21727-DEL
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1718353956.227001,VS0,VE270
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 035b4adf15c12064c08bb5bfe96b65f3bfc70660
+Expires: Fri, 14 Jun 2024 08:37:36 GMT
+Source-Age: 0
+
+]
+[2024-06-14 14:02:38,596: main: >>> stage Data Ingestion Stage completed <<<
+
+x===============x]
+[2024-06-14 14:02:38,597: main: >>> stage Data Validation Stage started <<<]
+[2024-06-14 14:02:38,599: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 14:02:38,599: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 14:02:38,600: common: Created directory at: artifacts]
+[2024-06-14 14:02:38,601: common: Created directory at: artifacts\data_validation]
+[2024-06-14 14:02:38,601: main: 'DataValidation' object has no attribute 'download_file']
+Traceback (most recent call last):
+  File "c:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\main.py", line 20, in <module>
+    data_validation.main()
+  File "c:\users\salla\onedrive\desktop\coding\machine learning\project\summarizer\src\Text_Summarizer\pipeline\stage_02_data_validation.py", line 13, in main
+    data_validation.download_file()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'DataValidation' object has no attribute 'download_file'
+[2024-06-14 14:03:18,729: main: >>> stage Data Ingestion Stage started <<<]
+[2024-06-14 14:03:18,730: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 14:03:18,731: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 14:03:18,731: common: Created directory at: artifacts]
+[2024-06-14 14:03:18,731: common: Created directory at: artifacts\data_ingestion]
+[2024-06-14 14:03:20,598: data_ingestion: artifacts\data_ingestion\data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: D03D:129CC7:13571:168E0:666BF434
+Accept-Ranges: bytes
+Date: Fri, 14 Jun 2024 08:33:19 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21726-DEL
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1718353999.261775,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: da880cb4a27da2db7e2368be6578e902c8e4f047
+Expires: Fri, 14 Jun 2024 08:38:19 GMT
+Source-Age: 43
+
+]
+[2024-06-14 14:03:20,719: main: >>> stage Data Ingestion Stage completed <<<
+
+x===============x]
+[2024-06-14 14:03:20,720: main: >>> stage Data Validation Stage started <<<]
+[2024-06-14 14:03:20,721: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 14:03:20,722: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 14:03:20,723: common: Created directory at: artifacts]
+[2024-06-14 14:03:20,724: common: Created directory at: artifacts\data_validation]
+[2024-06-14 14:03:20,726: main: >>> stage Data Validation Stage completed <<<
+
+x===============x]
