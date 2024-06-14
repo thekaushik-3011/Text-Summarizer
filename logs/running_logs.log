@@ -283,3 +283,96 @@ x===============x]
 [2024-06-14 14:03:20,726: main: >>> stage Data Validation Stage completed <<<
 
 x===============x]
+[2024-06-14 15:20:58,082: config: PyTorch version 2.3.1 available.]
+[2024-06-14 15:25:56,702: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 15:25:56,706: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 15:25:56,709: common: Created directory at: artifacts]
+[2024-06-14 15:26:31,592: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 15:26:31,595: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 15:26:31,597: common: Created directory at: artifacts]
+[2024-06-14 15:26:31,601: common: Created directory at: artifacts\data_transformation]
+[2024-06-14 15:36:49,347: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 15:36:49,349: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 15:36:49,352: common: Created directory at: artifacts]
+[2024-06-14 15:36:49,354: common: Created directory at: artifacts\data_transformation]
+[2024-06-14 15:37:53,082: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 15:37:53,084: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 15:37:53,085: common: Created directory at: artifacts]
+[2024-06-14 15:37:53,086: common: Created directory at: artifacts\data_transformation]
+[2024-06-14 15:43:39,526: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 15:43:39,529: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 15:43:39,530: common: Created directory at: artifacts]
+[2024-06-14 15:43:39,531: common: Created directory at: artifacts\data_transformation]
+[2024-06-14 15:44:07,490: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 15:44:07,491: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 15:44:07,493: common: Created directory at: artifacts]
+[2024-06-14 15:44:07,493: common: Created directory at: artifacts\data_transformation]
+[2024-06-14 15:44:57,754: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 15:44:57,755: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 15:44:57,757: common: Created directory at: artifacts]
+[2024-06-14 15:44:57,758: common: Created directory at: artifacts\data_transformation]
+[2024-06-14 15:46:32,446: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 15:46:32,449: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 15:46:32,450: common: Created directory at: artifacts]
+[2024-06-14 15:46:32,451: common: Created directory at: artifacts\data_transformation]
+[2024-06-14 15:46:43,681: config: PyTorch version 2.3.1 available.]
+[2024-06-14 15:46:44,181: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 15:46:44,183: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 15:46:44,185: common: Created directory at: artifacts]
+[2024-06-14 15:46:44,187: common: Created directory at: artifacts\data_transformation]
+[2024-06-14 15:47:01,790: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 15:47:01,791: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 15:47:01,793: common: Created directory at: artifacts]
+[2024-06-14 15:47:01,794: common: Created directory at: artifacts\data_transformation]
+[2024-06-14 15:54:52,596: config: PyTorch version 2.3.1 available.]
+[2024-06-14 15:54:52,928: main: >>> stage Data Ingestion Stage started <<<]
+[2024-06-14 15:54:52,931: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 15:54:52,931: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 15:54:52,932: common: Created directory at: artifacts]
+[2024-06-14 15:54:52,932: common: Created directory at: artifacts\data_ingestion]
+[2024-06-14 15:54:56,766: data_ingestion: artifacts\data_ingestion\data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 3EE4:127014:4022C:4B3A2:666C1A76
+Accept-Ranges: bytes
+Date: Fri, 14 Jun 2024 10:24:55 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21724-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1718360695.643532,VS0,VE591
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 5c7040d151bbf0a21bbc6674338524cd6af7018a
+Expires: Fri, 14 Jun 2024 10:29:55 GMT
+Source-Age: 0
+
+]
+[2024-06-14 15:54:56,891: main: >>> stage Data Ingestion Stage completed <<<
+
+x===============x]
+[2024-06-14 15:54:56,892: main: >>> stage Data Validation Stage started <<<]
+[2024-06-14 15:54:56,894: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 15:54:56,895: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 15:54:56,897: common: Created directory at: artifacts]
+[2024-06-14 15:54:56,898: common: Created directory at: artifacts\data_validation]
+[2024-06-14 15:54:56,901: main: >>> stage Data Validation Stage completed <<<
+
+x===============x]
+[2024-06-14 15:54:56,901: main: >>> stage Data Transformation Stage started <<<]
+[2024-06-14 15:54:56,903: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\config\config.yaml loaded successfully]
+[2024-06-14 15:54:56,904: common: yaml file: C:\Users\salla\OneDrive\Desktop\Coding\Machine Learning\Project\summarizer\params.yaml loaded successfully]
+[2024-06-14 15:54:56,905: common: Created directory at: artifacts]
+[2024-06-14 15:54:56,907: common: Created directory at: artifacts\data_transformation]
+[2024-06-14 15:55:01,193: main: >>> stage Data Transformation Stage completed <<<
+
+x===============x]
